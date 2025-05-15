@@ -2,14 +2,14 @@
 
 Um sistema simples de **CRUD em memória** (Create, Read, Update, Delete) desenvolvido em **Java 21+**, com interface gráfica utilizando **Swing**.
 
-> Projeto criado originalmente no NetBeans, mas finalizado e estruturado utilizando **IntelliJ IDEA**.
+> Projeto criado originalmente no IntelliJ IDEA, mas finalizado e estruturado utilizando **NetBeans**.
 
 ---
 
 ## 🖼️ Demonstração da Interface
 
-![Tela do sistema](CadastroCliente/img/imgExemplo.png)
-
+![Tela do sistema](/cadastroCliente/img/imgExemplo.png)
+CadastroCliente/img/imgExemplo.png
 > Interface gráfica do sistema com campos de entrada, botões de ação e tabela para visualização dos dados dos clientes.
 
 ---
