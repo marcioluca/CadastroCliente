@@ -8,7 +8,8 @@ Um sistema simples de **CRUD em memória** (Create, Read, Update, Delete) desenv
 
 ## 🖼️ Demonstração da Interface
 
-![Tela do sistema] (/cadastrocliente/img/imgexemplo)
+![Tela do sistema](img/imgExemplo.png)
+
 > Interface gráfica do sistema com campos de entrada, botões de ação e tabela para visualização dos dados dos clientes.
 
 ---
