@@ -1,12 +1,15 @@
-package br.com.projeto;
+package br.com.projeto.aplication;
 
 import br.com.projeto.dao.ClienteDAO;
 import br.com.projeto.dao.IClienteDAO;
 import br.com.projeto.domain.Cliente;
 
 import javax.swing.*;
-
-public class Main {
+/**
+ *
+ * @author marcio.lucas
+ */
+public class CadastroTelaSimples {
     private static IClienteDAO iClienteDAO;
 
     public static void main(String[] args) {
