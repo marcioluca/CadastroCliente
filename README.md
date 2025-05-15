@@ -8,7 +8,7 @@ Um sistema simples de **CRUD em memória** (Create, Read, Update, Delete) desenv
 
 ## 🖼️ Demonstração da Interface
 
-<img src="https://github.com/marcioluca/CadastroCliente/blob/main/img/imgExemplo.png?raw=true" width="700"/>
+<img src="https://github.com/marcioluca/CadastroCliente/blob/main/img/imgExemplo.png" width="700"/>
 
 
 > Interface gráfica do sistema com campos de entrada, botões de ação e tabela para visualização dos dados dos clientes.
